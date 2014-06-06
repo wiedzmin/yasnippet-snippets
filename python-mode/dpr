@@ -1,0 +1,5 @@
+# -*- mode: snippet -*-
+# name: debug print
+# key: dpr
+# --
+print "${1:expr}:", $1
