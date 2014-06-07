@@ -2,4 +2,5 @@
 # name: debug print
 # key: dpr
 # --
-print "${1:expr}:", $1
+print "[`(when (fboundp 'python-info-current-defun)
+           (python-info-current-defun))`] ${1:expr}:", $1
