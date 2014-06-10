@@ -1,0 +1,6 @@
+# -*- mode: snippet -*-
+# name: debug print
+# key: dp3
+# --
+print("[`(when (fboundp 'python-info-current-defun)
+           (python-info-current-defun))`] ${1:expr}:", $1)
