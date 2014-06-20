@@ -1,0 +1,6 @@
+# -*- mode: snippet; require-final-newline: nil -*-
+# name: unittest skip
+# key: sk
+# group: debug
+# --
+from unittest import skip
