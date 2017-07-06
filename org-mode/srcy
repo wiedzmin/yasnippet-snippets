@@ -2,6 +2,6 @@
 # name: srcy
 # key: srcy
 # --
-#+BEGIN_SRC ${1:language} :tangle ${2:yesno}
+#+BEGIN_SRC ${1:language} :tangle ${2:$$(yas-choose-value '("yes" "no"))}
 $0
 #+END_SRC
