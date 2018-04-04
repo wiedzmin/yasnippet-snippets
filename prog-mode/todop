@@ -1,0 +1,5 @@
+# -*- mode: snippet -*-
+# name: todop
+# key: tdp
+# --
+`(yas-with-comment (format " TODO: (%s) " (if (boundp 'user-private-name) user-private-name user-login-name)))`
