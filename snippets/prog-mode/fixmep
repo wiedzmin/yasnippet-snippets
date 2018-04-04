@@ -1,0 +1,5 @@
+# -*- mode: snippet -*-
+# name: fixmep
+# key: fip
+# --
+`(yas-with-comment (format " FIXME: (%s) " (if (boundp 'user-private-name) user-private-name user-login-name)))`
