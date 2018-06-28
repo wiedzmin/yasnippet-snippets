@@ -1,0 +1,5 @@
+# -*- mode: snippet -*-
+# name: notep
+# key: ntp
+# --
+`(yas-with-comment (format " (%s): " (if (boundp 'user-private-name) user-private-name user-login-name)))`
