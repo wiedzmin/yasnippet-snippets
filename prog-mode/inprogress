@@ -1,0 +1,5 @@
+# -*- mode: snippet -*-
+# name: inprogress
+# key: inp
+# --
+`(yas-with-comment "INPROGRESS: ")`
