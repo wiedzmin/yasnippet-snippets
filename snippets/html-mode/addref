@@ -1,0 +1,5 @@
+# -*- mode: snippet -*-
+# name: addref
+# key: ar
+# --
+`(yas-with-comment "[ref:$1]")`
