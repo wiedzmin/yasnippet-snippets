@@ -1,0 +1,5 @@
+# -*- mode: snippet -*-
+# name: addtag
+# key: fi
+# --
+`(yas-with-comment "[tag:]")`
