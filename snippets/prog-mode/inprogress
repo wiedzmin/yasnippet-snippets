@@ -2,4 +2,4 @@
 # name: inprogress
 # key: inp
 # --
-`comment-start`INPROGRESS: `comment-end`
+`comment-start`INPROGRESS: $0`comment-end`

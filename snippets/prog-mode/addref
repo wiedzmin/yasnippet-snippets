@@ -2,4 +2,4 @@
 # name: addref
 # key: ar
 # --
-`comment-start`[ref:$1]`comment-end`
+`comment-start`[ref:$0]`comment-end`

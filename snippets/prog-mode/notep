@@ -2,4 +2,4 @@
 # name: notep
 # key: ntp
 # --
-`comment-start``(format " (%s): " (if (boundp 'user-private-name) user-private-name user-login-name))``comment-end`
+`comment-start``(format " (%s): " (if (boundp 'user-private-name) user-private-name user-login-name))`$0`comment-end`

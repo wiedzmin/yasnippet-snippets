@@ -2,4 +2,4 @@
 # name: fixmep
 # key: fip
 # --
-`comment-start``(format "FIXME: (%s) " (if (boundp 'user-private-name) user-private-name user-login-name))``comment-end`
+`comment-start``(format "FIXME: (%s) " (if (boundp 'user-private-name) user-private-name user-login-name))`$0`comment-end`
