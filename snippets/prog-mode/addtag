@@ -2,4 +2,4 @@
 # name: addtag
 # key: at
 # --
-`comment-start`[tag:]`comment-end`
+`comment-start`[tag:$1]`comment-end`
