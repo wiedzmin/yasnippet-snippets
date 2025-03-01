@@ -1,0 +1,5 @@
+# -*- mode: snippet -*-
+# name: inprogress
+# key: inp
+# --
+`comment-start`INPROGRESS: $0`comment-end`
