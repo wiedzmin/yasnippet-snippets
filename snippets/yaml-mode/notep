@@ -1,5 +1,5 @@
-# -*- mode: snippet -*-
+# -*- mode: snippet; require-final-newline: nil -*-
 # name: notep
 # key: ntp
 # --
-`comment-start``(format " (%s): " (if (boundp 'user-private-name) user-private-name user-login-name))`$0`comment-end`
+`comment-start``(format " NOTE (%s): " (if (boundp 'user-private-name) user-private-name user-login-name))`$0`comment-end`
