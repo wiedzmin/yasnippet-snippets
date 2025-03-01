@@ -2,4 +2,4 @@
 # name: note
 # key: n
 # --
-`(yas-with-comment "NOTE: ")`
+`comment-start`NOTE: `comment-end`

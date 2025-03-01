@@ -2,4 +2,4 @@
 # name: inprogress
 # key: inp
 # --
-`(yas-with-comment "INPROGRESS: ")`
+`comment-start`INPROGRESS: `comment-end`

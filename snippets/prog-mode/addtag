@@ -2,4 +2,4 @@
 # name: addtag
 # key: fi
 # --
-`(yas-with-comment "[tag:]")`
+`comment-start`[tag:]`comment-end`
